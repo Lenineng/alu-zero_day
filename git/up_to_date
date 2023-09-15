@@ -1,1 +1,1 @@
-mkdir up_to_date ?up_to_date
+git pull https://github.com/Lenineng/alu-zero_day.git
